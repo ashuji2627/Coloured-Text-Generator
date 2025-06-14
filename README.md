@@ -35,17 +35,17 @@ The **Discord Colored Text Generator** helps users format and stylize messages u
 ---
 
 ## Built With
-HTML5, CSS3, Vanilla JavaScript
+- HTML5, CSS3, Vanilla JavaScript
 
-ANSI escape code syntax for Discord
+- ANSI escape code syntax for Discord
 
-Inspired by: Rebane's Original Gist
+- Inspired by: Rebane's Original Gist
 
-ANSI reference from: kkrypt0nn's Guide
+- ANSI reference from: kkrypt0nn's Guide
 
 ---
 
 ## Disclaimer
--This is an unofficial tool. It is not affiliated with or endorsed by Discord Inc.
--Use it responsibly and refer to Discord’s Terms of Service for any usage guidelines.
+- This is an unofficial tool. It is not affiliated with or endorsed by Discord Inc.
+- Use it responsibly and refer to Discord’s Terms of Service for any usage guidelines.
 
