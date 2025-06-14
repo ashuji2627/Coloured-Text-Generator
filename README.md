@@ -49,4 +49,4 @@ The **Discord Colored Text Generator** helps users format and stylize messages u
 - This is an unofficial tool. It is not affiliated with or endorsed by Discord Inc.
 - Use it responsibly and refer to Discord’s Terms of Service for any usage guidelines.
 
-Running Site: https://ashuji2627.github.io/Coloured-Text-Generator/
+Live Preview: https://ashuji2627.github.io/Coloured-Text-Generator/
