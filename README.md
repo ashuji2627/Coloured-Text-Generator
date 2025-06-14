@@ -46,6 +46,6 @@ ANSI reference from: kkrypt0nn's Guide
 ---
 
 ## Disclaimer
-This is an unofficial tool. It is not affiliated with or endorsed by Discord Inc.
-Use it responsibly and refer to Discord’s Terms of Service for any usage guidelines.
+-This is an unofficial tool. It is not affiliated with or endorsed by Discord Inc.
+-Use it responsibly and refer to Discord’s Terms of Service for any usage guidelines.
 
