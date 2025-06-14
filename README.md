@@ -18,8 +18,8 @@ The **Discord Colored Text Generator** helps users format and stylize messages u
 - **Light & Dark Mode**: Seamless theme switching to match your preference.
 - **Animated Transitions**: Smooth color transitions on style buttons for a modern feel.
 - **Clipboard Support**: One-click copy of ANSI-formatted Discord-ready text.
-- 🗃**Export/Import Functionality**: Save your styled messages as JSON or load them back.
-- ⚙**Client-Side Only**: No backend or data collection—everything runs securely in the browser.
+- **Export/Import Functionality**: Save your styled messages as JSON or load them back.
+- **Client-Side Only**: No backend or data collection—everything runs securely in the browser.
 
 
 ---
